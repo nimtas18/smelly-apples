@@ -14,7 +14,7 @@ const STATUS = {
 import { Card } from 'react-native-paper';
 
 export default function App() {
-  console.log('yezza')
+  
   const [focusSubject, setFocusSubject] = useState(null);
   const [focusHistory, setFocusHistory] = useState([]);
 
